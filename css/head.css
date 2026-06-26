@@ -1,0 +1,64 @@
+.bighead{
+    text-align: center;
+    font-size: 30px;
+    background-color: #F7F1DE;
+    color: #4E220F;
+    border: 3px solid;
+    border-color: #4E220F;
+    border-radius: 10px ;
+    font-family: "Cause";
+    margin-left: 4%;
+    margin-right: 4%;
+    margin-top: 2%;
+}
+
+.bt {
+    padding: 20px 100px;
+    background-color: #D5E7B5;
+    border: 2px solid;
+    border-radius: 5px ;
+    border-color: #4E220F;
+    text-align: center;
+    font-family: "Cause";
+    font-size: 20px;
+    color: #4E220F;
+    cursor: pointer;
+}
+.bt:hover {
+  background-color: #ccdaaa; 
+}
+
+.nameimg{
+    display: flex;
+    flex-direction: column;
+    align-items: left;
+    padding-left: 5% ;
+    padding-top:4%;
+    width: 30%;
+    
+}
+
+.ntext {
+    font-size: 18px;
+    font-family: "Mali";
+    font-weight: 450;
+    margin: 0%;
+    color: #4E220F;
+
+}
+
+.netext {
+    font-family: "Cause";
+    margin: 0%;
+    font-size: 18px;
+    margin: 0%;
+    color: #4E220F;
+}
+
+.sev{
+    width: 70%;
+    display: flex;
+    border: 1px;
+    padding-top: 4%;
+    padding-left: 4%;
+}
